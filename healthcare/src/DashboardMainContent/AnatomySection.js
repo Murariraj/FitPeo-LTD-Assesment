@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import muscleImage from "../Assets/istockphoto-154449330-612x612.jpg";
-import lungsImage from 'D:/FitPeo_TechLTD/healthcare/src/Assets/lung-cancer-diagram-detail-illustration-260nw-308751308.webp';
+import lungsImage from '../Assets/lung-cancer-diagram-detail-illustration-260nw-308751308.webp';
 import './AnatomySection.css'
 import teethImage from '../Assets/istockphoto-152960513-612x612.jpg'
 import boneImage from '../Assets/white-bone-with-white-background_668290-347.avif'
