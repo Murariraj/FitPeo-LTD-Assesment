@@ -1,9 +1,8 @@
 # Healthcare Dashboard (React - Static Display)
 
 A clean, healthcare dashboard UI built with React, replicating a given design as part of a Web Developer assignment. The project is a static representation with reusable components and mock data sources, focusing on layout, pixel-perfect styling, and responsiveness.
+![image](https://github.com/user-attachments/assets/42ec5166-8037-42f4-87cc-d47215ab1ead)
 
-
-![Healthcare UI Snippet](image-1.png)
 
 ## 📦 Tech Stack
 
